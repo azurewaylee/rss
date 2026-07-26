@@ -1,0 +1,6 @@
+feedparser
+feedgen
+listparser
+requests
+lxml
+python-dateutil
