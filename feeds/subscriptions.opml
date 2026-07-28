@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>Inoreader</title>
+</head>
+<body>
+<outline htmlUrl="http://www.foreignaffairs.com/rss.xml?cid=rss-rss_xml-rss_xml-000000" xmlUrl="https://www.foreignaffairs.com/rss.xml" title="All Foreign Affairs Content" text="All Foreign Affairs Content" type="rss" />
+<outline title="Dialogue China" type="rss" htmlUrl="https://www.dialoguechina.com/" xmlUrl="https://www.dialoguechina.com/feed/" text="Dialogue China" />
+<outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJncdiH3BQUBgCroBmhsUhQ" type="rss" text="GuanchaNews观察者网" title="GuanchaNews观察者网" htmlUrl="https://www.youtube.com/channel/UCJncdiH3BQUBgCroBmhsUhQ" />
+<outline xmlUrl="https://www.rcinet.ca/zh/feed/" text="RCI | 中文" htmlUrl="https://www.rcinet.ca/zh" type="rss" title="RCI | 中文" />
+<outline text="Solidot" title="Solidot" htmlUrl="https://www.solidot.org/" xmlUrl="https://feeds.feedburner.com/solidot" type="rss" />
+<outline xmlUrl="https://rss.news.yahoo.com/rss/topstories" type="rss" title="Yahoo News - Top Stories" text="Yahoo News - Top Stories" htmlUrl="https://news.yahoo.com/topstories/" />
+<outline type="rss" htmlUrl="https://www.yna.co.kr/" title="YonhapNews" xmlUrl="https://cn.yna.co.kr/RSS/news.xml" text="YonhapNews" />
+<outline type="rss" htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29" text="一天一篇经济学人(双语)" title="一天一篇经济学人(双语)" xmlUrl="https://plink.anyfeeder.com/weixin/Economist_fans" />
+<outline type="rss" text="三联生活周刊" title="三联生活周刊" xmlUrl="https://feedmaker.kindle4rss.com/feeds/lifeweek.weixin.xml" htmlUrl="https://www.iwgc.cn/list/99" />
+<outline title="中国数字时代" type="rss" htmlUrl="https://chinadigitaltimes.net/chinese" xmlUrl="https://feeds.feedburner.com/chinadigitaltimes/IyPt" text="中国数字时代" />
+<outline type="rss" htmlUrl="https://chinademocrats.org/" xmlUrl="https://chinademocrats.org/?feed=rss2" text="中国民主转型研究所" title="中国民主转型研究所" />
+<outline title="人民日报" text="人民日报" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/rmrbwx.weixin.xml" htmlUrl="http://chuansong.me/account/rmrbwx" />
+<outline text="加美财经" xmlUrl="https://caus.com/feed/" htmlUrl="https://caus.com/" type="rss" title="加美财经" />
+<outline htmlUrl="https://yiding.9.cn/ac/142" type="rss" title="华尔街见闻" xmlUrl="https://feedmaker.kindle4rss.com/feeds/wallstreetcn.weixin.xml" text="华尔街见闻" />
+<outline type="rss" htmlUrl="http://www.iwgc.cn/list/479" text="南方周末" xmlUrl="http://feedmaker.kindle4rss.com/feeds/nanfangzhoumo.weixin.xml" title="南方周末" />
+<outline xmlUrl="https://feedmaker.kindle4rss.com/feeds/hot.infzm.com.xml" type="rss" htmlUrl="https://www.infzm.com/" text="南方周末" title="南方周末" />
+<outline title="南方周末" text="南方周末" htmlUrl="http://infzm.com/" xmlUrl="https://feedx.net/rss/infzm.xml" type="rss" />
+<outline text="南都周刊" htmlUrl="http://www.iwgc.cn/list/180" title="南都周刊" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/nbweekly.weixin.xml" />
+<outline xmlUrl="https://www.botanwang.com/rss.xml" type="rss" htmlUrl="https://botanwang.com/" title="博谈网" text="博谈网" />
+<outline xmlUrl="https://feedx.net/rss/dw.xml" type="rss" htmlUrl="https://dw.com/" title="德国之声" text="德国之声" />
+<outline text="新京报书评周刊" title="新京报书评周刊" type="rss" xmlUrl="https://feedmaker.kindle4rss.com/feeds/ibookreview.weixin.xml" htmlUrl="https://yiding.9.cn/ac/3558" />
+<outline xmlUrl="https://china.kyodonews.net/rss/news.xml" title="新闻 - 共同网" text="新闻 - 共同网" htmlUrl="https://china.kyodonews.net/" type="rss" />
+<outline htmlUrl="https://feedx.net/rss/nikkei.xml" title="日经中文网" type="rss" xmlUrl="https://feedx.net/rss/nikkei.xml" text="日经中文网" />
+<outline title="日经中文网--日本经济新闻中文版" type="rss" htmlUrl="https://cn.nikkei.com/" xmlUrl="https://cn.nikkei.com/rss.html" text="日经中文网--日本经济新闻中文版" />
+<outline xmlUrl="https://www.rfa.org/mandarin/rss2.xml" htmlUrl="http://www.rfa.org/" type="rss" title="普通话主页" text="普通话主页" />
+<outline title="法国国际广播电台中文网页 - 法国国际广播电台中文网页 国际时事 中国动态 多样世界 兼听则明" type="rss" htmlUrl="https://www.rfi.fr/" xmlUrl="https://www.rfi.fr/actucn/pages/001/accueil.xml" text="法国国际广播电台中文网页 - 法国国际广播电台中文网页 国际时事 中国动态 多样世界 兼听则明" />
+<outline xmlUrl="http://feedmaker.kindle4rss.com/feeds/thepapernews.weixin.xml" title="澎湃新闻" text="澎湃新闻" htmlUrl="http://yiding.9.cn/ac/1586" type="rss" />
+<outline text="独立中文笔会" type="rss" xmlUrl="https://www.chinesepen.org/feed" htmlUrl="https://www.chinesepen.org/" title="独立中文笔会" />
+<outline xmlUrl="http://feedmaker.kindle4rss.com/feeds/hqsbwx.weixin.xml" type="rss" title="环球时报" text="环球时报" htmlUrl="http://yiding.9.cn/ac/18" />
+<outline title="环球科学" type="rss" text="环球科学" htmlUrl="https://www.jintiankansha.me/column/HEggKaocwN" xmlUrl="https://feedmaker.kindle4rss.com/feeds/ScientificAmerican.weixin.xml" />
+<outline text="端传媒 - 最新" type="rss" htmlUrl="https://app.theinitium.com/t/latest/latest_sc/" title="端传媒 - 最新" xmlUrl="https://rsshub.app/theinitium/app" />
+<outline htmlUrl="https://www.iwgc.cn/list/303" title="第一财经周刊" text="第一财经周刊" type="rss" xmlUrl="https://feedmaker.kindle4rss.com/feeds/CBNweekly2008.weixin.xml" />
+<outline type="rss" xmlUrl="https://feedx.net/rss/nytimes.xml" title="纽约时报" htmlUrl="https://feedx.net/rss/nytimes.xml" text="纽约时报" />
+<outline title="纽约时报双语版" text="纽约时报双语版" xmlUrl="https://feedx.net/rss/nytimesdual.xml" type="rss" htmlUrl="http://nytimes.com" />
+<outline xmlUrl="https://wqw2010.blogspot.com/feeds/posts/default" type="rss" text="维权网" htmlUrl="https://wqw2010.blogspot.com/" title="维权网" />
+<outline title="美国之音" text="美国之音" xmlUrl="https://www.voachinese.com/api/epiqq" type="rss" htmlUrl="https://www.voachinese.com/" />
+<outline xmlUrl="https://yibaochina.com/?feed=rss2" type="rss" title="议报" text="议报" htmlUrl="https://yibaochina.com/" />
+<outline title="阮一峰的网络日志" htmlUrl="https://www.ruanyifeng.com/blog/" text="阮一峰的网络日志" xmlUrl="https://feeds.feedburner.com/ruanyifeng" type="rss" />
+<outline htmlUrl="https://chuansong.me/account/phoenixweekly" type="rss" title="香港凤凰周刊" text="香港凤凰周刊" xmlUrl="https://feedmaker.kindle4rss.com/feeds/phoenixweekly.weixin.xml" />
+</body>
+</opml>

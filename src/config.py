@@ -1,0 +1,5 @@
+MAX_ARTICLES_PER_FEED = 10
+
+MAX_WORKERS = 8
+
+OUTPUT_FILE = "feed.xml"
